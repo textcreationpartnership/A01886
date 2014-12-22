@@ -35,9 +35,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Hollands leaguer: or, An historical discourse of the life and actions of Dona Britanica Hollandia th
+
+1. Noctes atque dies patet atri Ianua Ditis.
+
 #####Body#####
-Hollands leaguer: or, An historical discourse of the life and actions of Dona Britanica Hollandia th
+
+1. HOLLANDS
+LEAGVER:
+OR,
+AN HISTORICAL
+Discourse of the Life and Actions,
+of Dona Britanica Hollandia, the Arch-Mistris
+of the wicked Women
+of Eutopia.
+
 **Types of content**
 
   * There are 8 **verse** lines!
